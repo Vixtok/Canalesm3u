@@ -1,137 +1,57 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1",Musica Maxima
+#EXTINF:-1 tvg-chno="1",Maxima
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="2",Musica Retro Plus
+#EXTINF:-1 tvg-chno="2",Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="3",Musica Retro Plus 2
+#EXTINF:-1 tvg-chno="3",Retro Plus 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="4",Musica Retro Plus 3
+#EXTINF:-1 tvg-chno="4",Retro Plus 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="5",Musica XTV
-https://tls.cdnz.cl:443/xtvmusic/xtvmusic/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="6",Musica Zapping
-https://zmlive.zappingtv.com/zm_free/zm.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="7",Musica Music Top HD
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-#EXTINF:-1 tvg-chno="8",Musica Karibeña TV
-https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="9",Musica La Mega Mundial
-http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1 tvg-chno="10",Musica Retro Music TV
-http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="11",Musica Rewind
-https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="12",Musica TV Pop
+#EXTINF:-1 tvg-chno="5",Pop
 https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="13",Musica Vision TV
-https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="14",Musica Video Tour Channel
+#EXTINF:-1 tvg-chno="6",Tour Channel
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="15",Musica TV Exitos
-http://siglo21.dnsalias.com:8080/mylive/tvexitos/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="16",Musica Canal 38 TV
+#EXTINF:-1 tvg-chno="7",Canal 38
 https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="17",Musica Portal FoxMix
+#EXTINF:-1 tvg-chno="8",Portal FoxMix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="18",Musica WOW
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="19",Musica Mix 24/7
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="20",Musica Mix 24/7 Baladas
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="21",Musica Mix 24/7 Conciertos Live
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="22",Musica Mix 24/7 Pop
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="23",Musica Mix 24/7 Retro
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="24",Musica Mix 24/7 Top 100
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="25",Musica Mix 24/7 Tropical
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="26",Musica AC Vision
-https://stmv.panel.mivideo.pro/acvisionecuador/acvisionecuador/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="27",Musica M2O TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="28",Musica Top Latino TV
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="29",Musica Natural TV
-http://srv1.zcast.com.br/miguel/miguel/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="30",Musica Canal Latino 54 TV
-http://190.3.169.119:8080/latina/latina/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="31",Musica Estacion 95 TV
-http://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="32",Musica Tele Ritmo
-http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-chno="33",Musica 80'S Video Mix Vol 1
-https://ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ%20Panduro%20-%20The%2080%27s%20Videomix%20%28Volume%201%29.mp4
-#EXTINF:-1 tvg-chno="34",Musica 90'S Euro Dance Mix
-https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20Panduro%20-%20The%2090%27s%20Eurodance%20Videomix.mp4
-#EXTINF:-1 tvg-chno="35",Musica 80'S
-http://sc-80s.1.fm:7032
-#EXTINF:-1 tvg-chno="36",Musica 50-60
-http://sc-60s.1.fm:7028
-#EXTINF:-1 tvg-chno="37",Musica 80'S (USA)
-http://sc-b280s.1.fm:6950
-#EXTINF:-1 tvg-chno="38",Musica Rock Clasico
-http://sc-classrock.1.fm:8206
-#EXTINF:-1 tvg-chno="39",Musica Dance
-http://sc-dance.1.fm:3895
-#EXTINF:-1 tvg-chno="40",Musica Disco 70-80
-http://sc-disco.1.fm:7020
-#EXTINF:-1 tvg-chno="41",Musica Rock
-http://relay.181.fm:8028/
-#EXTINF:-1 tvg-chno="42",Musica Salsa
-http://relay.181.fm:8098/
-#EXTINF:-1 tvg-chno="43",Musica Discoteca
-http://listen1.myradio24.com:9000/5967
-#EXTINF:-1 tvg-chno="44",Pelicula Zee Mundo
-https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-chno="45",Peliculas EvaStream
-https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="46",Peliculas Cine Club
-https://Stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="47",Peliculas Retro TV
-http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="48",Peliculas FMTV Mundo 1HD
-https://cloud2.streamin4glivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="49",Peliculas Exprezion TV
-https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="50",Television TV Peruanisima
+#EXTINF:-1 tvg-chno="9",Peruanisima
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="51",Television El Chavo TV
-https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="52",Television CS TV
-https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="53",Television Cluod Server Kids
-https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="54",Television Clasica
-http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="55",Television Latinos UP!
-https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="56",Television FMTV2 Movies
-https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="57",Television Locomotion
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="58",Television Cachipum TV
-https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="59",Television Dreiko TV
-https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="60",Television 24 Horas
-https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="61",Television TV+
-https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="62",Television TV+ Diferido
-https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="63",Television Camara Diputados
-https://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="64",Television MegaNoticias
-http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="65",Television VoxPopuli
-https://unlimited6-cl.dps.live/vox/vox.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="66",Television Vivo TV
-https://unlimited10-cl.dps.live/vivotv/vivotv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="67",Television Contivision TV
-https://unlimited2-cl.dps.live/contivision/contivision.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="68",Television TV Chile
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="10",Top HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-chno="11",Karibeña
+https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="12",MasCumbia
+https://live.siete.us:1991/mascumbiatvonline/mascumbiatvonline/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="13",Conecta
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="14",La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:-1 tvg-chno="15",Retro Music
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="16",WOW
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="17",80'S Video Mix Vol 1
+https://ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ%20Panduro%20-%20The%2080%27s%20Videomix%20%28Volume%201%29.mp4
+#EXTINF:-1 tvg-chno="18",90'S Euro Dance Mix
+https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20Panduro%20-%20The%2090%27s%20Eurodance%20Videomix.mp4
+#EXTINF:-1 tvg-chno="19",Dance Star
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
+#EXTINF:-1 tvg-chno="20",Radio 80'S
+http://sc-80s.1.fm:7032
+#EXTINF:-1 tvg-chno="21",Radio 50-60
+http://sc-60s.1.fm:7028
+#EXTINF:-1 tvg-chno="22",Radio 80'S (USA)
+http://sc-b280s.1.fm:6950
+#EXTINF:-1 tvg-chno="23",Radio Rock Clasico
+http://sc-classrock.1.fm:8206
+#EXTINF:-1 tvg-chno="24",Radio Dance
+http://sc-dance.1.fm:3895
+#EXTINF:-1 tvg-chno="25",Radio Disco 70-80
+http://sc-disco.1.fm:7020
+#EXTINF:-1 tvg-chno="26",Radio Rock
+http://relay.181.fm:8028/
+#EXTINF:-1 tvg-chno="27",Radio Salsa
+http://relay.181.fm:8098/
+#EXTINF:-1 tvg-chno="28",Radio Discoteca
+http://listen1.myradio24.com:9000/5967
