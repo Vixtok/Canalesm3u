@@ -24,7 +24,7 @@ https://hostv7.tvestacion7.com:3222/hybrid/play.m3u8?WebM3UCL
 #EXTINF:-1 tvg-chno="12",VClassic Tropical
 https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-chno="13",Karibeña
-https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 #EXTINF:-1 tvg-chno="14",Vision Musica
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-chno="15",Amordiscos
