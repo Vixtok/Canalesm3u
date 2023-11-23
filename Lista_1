@@ -7,8 +7,8 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?WebM3UCL
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno="4",Vintage Music
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="5",Mega TV Jaen
-https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="5",Mundo de la Musica TV
+https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno="6",Controversia TV
 https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno="7",Planeta TV
@@ -19,23 +19,21 @@ https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?
 https://mediacp.us:8081/8002/index.m3u8?WebM3UCL
 #EXTINF:-1 tvg-chno="10",Soy Plancha TV
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="11",Mundo de la Musica TV
-https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="12",Conecta
-https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="13",VClassic Tropical
+#EXTINF:-1 tvg-chno="11",VClassic Tropical
 https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?WebM3UCL
-#EXTINF:-1 tvg-chno="14",Sanjuanera TV
+#EXTINF:-1 tvg-chno="12",Sanjuanera TV
 https://live.obslivestream.com/sanjuanera/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="15",Hechicera TV
+#EXTINF:-1 tvg-chno="13",Hechicera TV
 https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="16",Tumpis TV
+#EXTINF:-1 tvg-chno="14",Conecta
+https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="15",Tumpis TV
 https://servilive.com:3531/stream/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="17",Red Circle
+#EXTINF:-1 tvg-chno="16",Red Circle
 https://5e3483cba9114.streamlock.net:443/8016/8016/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="18",Retro Chanel
+#EXTINF:-1 tvg-chno="17",Retro Chanel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="19",Panavision
+#EXTINF:-1 tvg-chno="18",Panavision
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="20",Cadena Elite
+#EXTINF:-1 tvg-chno="19",Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
