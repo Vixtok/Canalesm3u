@@ -1,47 +1,55 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="1",Retro Plus
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="2",Rock
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-#EXTINF:-1 tvg-chno="3",Rockland
+#EXTINF:-1 tvg-chno="2",Rockland
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="4",Video Classic
+#EXTINF:-1 tvg-chno="3",Video Classic
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?WebM3UCL
-#EXTINF:-1 tvg-chno="5",Vintage Music
+#EXTINF:-1 tvg-chno="4",Vintage Music
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="6",Music Channel
-https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
-#EXTINF:-1 tvg-chno="7",Mundo de la Musica
-https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="8",Controversia
-https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="9",Retro Plus 2
-https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="10",Memorias
-https://mediacp.us:8081/8002/index.m3u8?WebM3UCL
-#EXTINF:-1 tvg-chno="11",Soy Plancha
-https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="12",Video Classic Tropical
-https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?WebM3UCL
-#EXTINF:-1 tvg-chno="13",Retro Chanel
+#EXTINF:-1 tvg-chno="5",Retro Chanel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="14",Karibeña
+#EXTINF:-1 tvg-chno="6",Recuerdos Retro
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="7",Music Channel
+https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
+#EXTINF:-1 tvg-chno="8",Mundo de la Musica
+https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="9",Controversia
+https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="10",Retro Plus 2
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="11",DBox Radio
+https://videostream.chileservidores.com:8081/dboxradio/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="12",Turbo Mix
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="13",Soy Plancha
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="14",Video Classic Tropical
+https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?WebM3UCL
+#EXTINF:-1 tvg-chno="15",TV One
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-#EXTINF:-1 tvg-chno="15",Tropical Moon Salsa
+#EXTINF:-1 tvg-chno="16",Sanjuanera
+https://live.obslivestream.com/sanjuanera/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="17",Tropical Moon Salsa
 https://srv.tropicalmoonmedia.com/musictv/musictv/playlist.m3u8
-#EXTINF:-1 tvg-chno="16",Tropical Moon Cumbia
+#EXTINF:-1 tvg-chno="18",Tropical Moon Cumbia
 https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
-#EXTINF:-1 tvg-chno="17",Tropical Moon Eventos
-https://srv2.tropicalmoonmedia.com/eventostv/eventostv/playlist.m3u8
-#EXTINF:-1 tvg-chno="18",Sol Televisión
+#EXTINF:-1 tvg-chno="19",Classic Chanel
+https://paneltv.online:1936/8046/8046/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="20",Vision Plus
+https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="21",Doble C
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="22",Tele Selva
+https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="23",Via Televisio Tarapoto
+https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="24",Sol Televisión
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
-#EXTINF:-1 tvg-chno="19",Tumpis
-https://servilive.com:3531/stream/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="20",Conecta
-https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="21",Estrella Games
+#EXTINF:-1 tvg-chno="25",Estrella Games
 https://estrella-games-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="22",Miami
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1 tvg-chno="23",Miami Mexico
+#EXTINF:-1 tvg-chno="26",Miami Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1 tvg-chno="27",Tumpis
+https://servilive.com:3531/stream/play.m3u8?PlaylistM3UCL
