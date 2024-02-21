@@ -39,17 +39,19 @@ https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
 https://paneltv.online:1936/8046/8046/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno="20",Vision Plus
 https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="21",Doble C
+#EXTINF:-1 tvg-chno="21",Radio TV
+https://cdn.002radio.com:3909/live/radio002live.m3u8
+#EXTINF:-1 tvg-chno="22",Doble C
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="22",Tele Selva
+#EXTINF:-1 tvg-chno="23",Tele Selva
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="23",Via Televisio Tarapoto
+#EXTINF:-1 tvg-chno="24",Via Television Tarapoto
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="24",Sol Televisión
+#EXTINF:-1 tvg-chno="25",Sol Televisión
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
-#EXTINF:-1 tvg-chno="25",Estrella Games
+#EXTINF:-1 tvg-chno="26",Estrella Games
 https://estrella-games-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="26",Miami Mexico
+#EXTINF:-1 tvg-chno="27",Miami Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-#EXTINF:-1 tvg-chno="27",Tumpis
+#EXTINF:-1 tvg-chno="28",Tumpis
 https://servilive.com:3531/stream/play.m3u8?PlaylistM3UCL
