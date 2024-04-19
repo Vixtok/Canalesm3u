@@ -1,57 +1,71 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="1",Retro Plus
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="2",Rockland
+#EXTINF:-1 tvg-chno="2",Rock
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:-1 tvg-chno="3",Rockland
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="3",Video Classic
+#EXTINF:-1 tvg-chno="4",Video Classic
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?WebM3UCL
-#EXTINF:-1 tvg-chno="4",Vintage Music
+#EXTINF:-1 tvg-chno="5",Vintage Music
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="5",Retro Chanel
+#EXTINF:-1 tvg-chno="6",Retro Chanel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="6",Recuerdos Retro
+#EXTINF:-1 tvg-chno="7",Recuerdos Retro
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="7",Music Channel
+#EXTINF:-1 tvg-chno="8",Music Channel
 https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
-#EXTINF:-1 tvg-chno="8",Mundo de la Musica
-https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno="9",Controversia
 https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno="10",Retro Plus 2
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="11",DBox Radio
+#EXTINF:-1 tvg-chno="11",Recuerdos Inolvidables
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
+#EXTINF:-1 tvg-chno="12",DBox Radio
 https://videostream.chileservidores.com:8081/dboxradio/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="12",Turbo Mix
+#EXTINF:-1 tvg-chno="13",Turbo Mix
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="13",Soy Plancha
+#EXTINF:-1 tvg-chno="14",Soy Plancha
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="14",Video Classic Tropical
+#EXTINF:-1 tvg-chno="15",Video Classic Tropical
 https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?WebM3UCL
-#EXTINF:-1 tvg-chno="15",TV One
+#EXTINF:-1 tvg-chno="16",TV One
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-#EXTINF:-1 tvg-chno="16",Sanjuanera
+#EXTINF:-1 tvg-chno="17",Karibeña
+https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibena/index.fmp4.m3u8
+#EXTINF:-1 tvg-chno="18",Sanjuanera
 https://live.obslivestream.com/sanjuanera/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="17",Tropical Moon Salsa
+#EXTINF:-1 tvg-chno="19",Salsa Gorda
+https://tgn.bozztv.com/ssh101/ssh101/qMUAZEy/playlist.m3u8
+#EXTINF:-1 tvg-chno="20",Tropical Moon Salsa
 https://srv.tropicalmoonmedia.com/musictv/musictv/playlist.m3u8
-#EXTINF:-1 tvg-chno="18",Tropical Moon Cumbia
+#EXTINF:-1 tvg-chno="21",Tropical Moon Cumbia
 https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
-#EXTINF:-1 tvg-chno="19",Classic Chanel
+#EXTINF:-1 tvg-chno="22",Classic Chanel
 https://paneltv.online:1936/8046/8046/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="20",Vision Plus
+#EXTINF:-1 tvg-chno="23",Vision Plus
 https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="21",Radio TV
+#EXTINF:-1 tvg-chno="24",Radio TV
 https://cdn.002radio.com:3909/live/radio002live.m3u8
-#EXTINF:-1 tvg-chno="22",Doble C
+#EXTINF:-1 tvg-chno="25",Doble C
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="23",Tele Selva
-https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="24",Via Television Tarapoto
+#EXTINF:-1 tvg-chno="26",Via Television Tarapoto
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="25",Sol Televisión
+#EXTINF:-1 tvg-chno="27",Sol Televisión
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
-#EXTINF:-1 tvg-chno="26",Estrella Games
-https://estrella-games-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="27",Miami Mexico
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-#EXTINF:-1 tvg-chno="28",Tumpis
-https://servilive.com:3531/stream/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="28",Classic Movies
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
+#EXTINF:-1 tvg-chno="29",70-80
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:-1 tvg-chno="30",Aruba
+https://5caf24a595d94.streamlock.net:1937/kmdbgtygtx/kmdbgtygtx/playlist.m3u8
+#EXTINF:-1 tvg-chno="31",Bonches Latinos
+https://ss5.domint.net:3172/btv_str/bonchestv/playlist.m3u8
+#EXTINF:-1 tvg-chno="32",History
+http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
+#EXTINF:-1 tvg-chno="33",History 2
+http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
+#EXTINF:-1 tvg-chno="34",Impact TV Dance
+https://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF:-1 tvg-chno="35",TVS Retro
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
