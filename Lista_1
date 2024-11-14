@@ -75,21 +75,19 @@ https://fl1002.bozztv.com/ssh101/opinionsur/index.m3u8?PlaylistM3UCL
 https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno="38",Red Vision (SR-CA)
 https://tls-cl.cdnz.cl/livertv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="39",Buin Somos Todos (PR-CA)
+#EXTINF:-1 tvg-chno="39",Buin Somos Todos (SR-CA)
 https://bst.buin.cl/0.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno="40",Caldera Vision (SR-CA)
 https://us.streaminghd.cl/calderavisiontv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno="41",Moni (D-CA)
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="42",Autonoma (D-CA)
-https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="43",ZTV Anime (DR-CA)
+#EXTINF:-1 tvg-chno="42",ZTV Anime (DR-CA)
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="44",AniRetro (DR-CA)
+#EXTINF:-1 tvg-chno="43",AniRetro (DR-CA)
 https://tv.streaming-chile.com:19360/8068/8068.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="45",Taltal (D-CA)
+#EXTINF:-1 tvg-chno="44",Taltal (D-CA)
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="46",La Chilena (F-CM)
+#EXTINF:-1 tvg-chno="45",La Chilena (F-CM)
 https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="47",CR (MS-CA)
+#EXTINF:-1 tvg-chno="46",CR (MS-CA)
 https://videolatam.com:3599/hybrid/play.m3u8?PlaylistM3UCL
