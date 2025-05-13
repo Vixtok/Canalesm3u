@@ -87,7 +87,6 @@ https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
 https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
 #EXTINF:-1 tvg-chno="44",Vepaco (M-CA)
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
-
 #EXTINF:-1 tvg-chno="45",Cine Sony (P-CA)
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-chno="46",Solar TV Cusco (P-CA)
@@ -164,17 +163,27 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/playlist.m3u8?Playl
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno="80",Kanade (P-CA)
 https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="81",EnerGeek Fan (P-CA)
+#EXTINF:-1 tvg-chno="81",Unetev (P-CA)
+https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="82",Huasco TV (P-CA)
+https://paneltv.online:1936/8024/8024/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="83",TV Elqui (P-CA)
+https://panel.tvstream.cl:1936/8016/8016/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="84",TV Canal 5 (P-CA)
+https://vdochile.com:3317/stream/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="85",Milodon TV (P-CA)
+https://video8.servidordevideo.net:3161/live/ynhpdikjlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="86",EnerGeek Fan (P-CA)
 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="82",EnerGeek Retro (P-CA)
+#EXTINF:-1 tvg-chno="87",EnerGeek Retro (P-CA)
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="83",UChile (RC-CA)
+#EXTINF:-1 tvg-chno="88",UChile (RC-CA)
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="84",U Los Lagos (RC-CA)
+#EXTINF:-1 tvg-chno="89",U Los Lagos (RC-CA)
 http://tv.ulagos.cl/web/live.m3u8
-#EXTINF:-1 tvg-chno="85",Chile Channel (RC-CA)
+#EXTINF:-1 tvg-chno="90",Chile Channel (RC-CA)
 https://v2.tustreaming.cl/chilechannel/index.m3u8
-#EXTINF:-1 tvg-chno="86",La Chilena (F-CM)
+#EXTINF:-1 tvg-chno="91",La Chilena (F-CM)
 https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="87",CR (MS-CA)
+#EXTINF:-1 tvg-chno="92",CR (MS-CA)
 https://videolatam.com:3599/hybrid/play.m3u8?PlaylistM3UCL
