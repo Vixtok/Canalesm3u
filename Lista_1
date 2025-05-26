@@ -117,83 +117,80 @@ https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8?PlaylistM3
 https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno="59",CR TV (P-CA)
 https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="60",Tele Selva (P-CA)
-https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="61",Foro TV (P-CA)
+
+#EXTINF:-1 tvg-chno="60",Foro TV (P-CA)
 https://mc.servidor.stream:19360/8274/8274.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="62",Maule Vision (P-CA)
+#EXTINF:-1 tvg-chno="61",Maule Vision (P-CA)
 https://v2.tustreaming.cl/maulevisiontv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="63",Atacama TV (P-CA)
+#EXTINF:-1 tvg-chno="62",Atacama TV (P-CA)
 https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="64",Dodo (P-CA)
+#EXTINF:-1 tvg-chno="63",Dodo (P-CA)
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="65",Limon (P-CA)
+#EXTINF:-1 tvg-chno="64",Limon (P-CA)
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
-#EXTINF:-1 tvg-chno="66",DMJ (P-CA)
+#EXTINF:-1 tvg-chno="65",DMJ (P-CA)
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="67",Emocion TV (P-CA)
+#EXTINF:-1 tvg-chno="66",Emocion TV (P-CA)
 https://v1.tustreaming.cl/emociontv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="68",Suyai TV (P-CM)
+#EXTINF:-1 tvg-chno="67",Suyai TV (P-CM)
 https://signal.suyaitv.cl/live/35/playlist.m3u8?username=ZZDemoM3uCL&password=JpunQr45z7&PlaylistM3UCL
-#EXTINF:-1 tvg-chno="69",Xtrema Accion (P-CM)
+#EXTINF:-1 tvg-chno="68",Xtrema Accion (P-CM)
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-chno="70",TV y TV (P-CA)
+#EXTINF:-1 tvg-chno="69",TV y TV (P-CA)
 https://cloudpro.servidoresdestream.com:8081/8014/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="71",Kandela (P-CM)
+#EXTINF:-1 tvg-chno="70",Kandela (P-CM)
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
-#EXTINF:-1 tvg-chno="72",Enfoque Digital TV (P-CA)
+#EXTINF:-1 tvg-chno="71",Enfoque Digital TV (P-CA)
 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="73",Via Alto Mayo TV (P-CA)
+#EXTINF:-1 tvg-chno="72",Via Alto Mayo TV (P-CA)
 https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="74",Hechicera TV (P-CA)
+#EXTINF:-1 tvg-chno="73",Hechicera TV (P-CA)
 https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="75",BHTV (P-CA)
+#EXTINF:-1 tvg-chno="74",BHTV (P-CA)
 https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="76",Canal 74 TeVe (P-CA)
+#EXTINF:-1 tvg-chno="75",Canal 74 TeVe (P-CA)
 https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="77",Radio Araucania Laja (P-CA)
+#EXTINF:-1 tvg-chno="76",Radio Araucania Laja (P-CA)
 https://stmv5.voxtvhd.com.br/radioaraucania/radioaraucania/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="78",Buin Somos Todos (P-CA)
+#EXTINF:-1 tvg-chno="77",Buin Somos Todos (P-CA)
 https://bst.buin.cl/0.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="79",Mega TV Arequipa (P-CA)
+#EXTINF:-1 tvg-chno="78",Mega TV Arequipa (P-CA)
 https://mc.servidor.stream:19360/megatv/megatv.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="80",La Granja TV (P-CA)
+#EXTINF:-1 tvg-chno="79",La Granja TV (P-CA)
 https://oracle.streaminghd.cl/8126/8126/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="81",Caldera Vision TV (P-CA)
+#EXTINF:-1 tvg-chno="80",Caldera Vision TV (P-CA)
 https://v4.tustreaming.cl:443/calderavisiontv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="82",Placilla TV (P-CA)
-https://panel.tvstream.cl:1936/8038/8038/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="83",Placilla TV (P-CA)
+#EXTINF:-1 tvg-chno="81",Placilla TV (P-CA)
 https://vdochile.com:3317/stream/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="84",Taltal (P-CM)
+#EXTINF:-1 tvg-chno="82",Taltal (P-CM)
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="85",Moni (P-CA)
+#EXTINF:-1 tvg-chno="83",Moni (P-CA)
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="86",ZTV Anime (P-CA)
+#EXTINF:-1 tvg-chno="84",ZTV Anime (P-CA)
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="87",Kanade (P-CA)
+#EXTINF:-1 tvg-chno="85",Kanade (P-CA)
 https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="88",Unetev (P-CA)
+#EXTINF:-1 tvg-chno="86",Unetev (P-CA)
 https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="89",Huasco TV (P-CA)
+#EXTINF:-1 tvg-chno="87",Huasco TV (P-CA)
 https://paneltv.online:1936/8024/8024/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="90",TV Elqui (P-CA)
+#EXTINF:-1 tvg-chno="88",TV Elqui (P-CA)
 https://panel.tvstream.cl:1936/8016/8016/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="91",TV Canal 5 (P-CA)
+#EXTINF:-1 tvg-chno="89",TV Canal 5 (P-CA)
 https://vdochile.com:3317/stream/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="92",Milodon TV (P-CA)
+#EXTINF:-1 tvg-chno="90",Milodon TV (P-CA)
 https://video8.servidordevideo.net:3161/live/ynhpdikjlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="93",EnerGeek Fan (P-CA)
+#EXTINF:-1 tvg-chno="91",EnerGeek Fan (P-CA)
 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="94",EnerGeek Retro (P-CA)
+#EXTINF:-1 tvg-chno="92",EnerGeek Retro (P-CA)
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="95",UChile (RC-CA)
+#EXTINF:-1 tvg-chno="93",UChile (RC-CA)
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="96",U Los Lagos (RC-CA)
+#EXTINF:-1 tvg-chno="94",U Los Lagos (RC-CA)
 http://tv.ulagos.cl/web/live.m3u8
-#EXTINF:-1 tvg-chno="97",Chile Channel (RC-CA)
+#EXTINF:-1 tvg-chno="95",Chile Channel (RC-CA)
 https://v2.tustreaming.cl/chilechannel/index.m3u8
-#EXTINF:-1 tvg-chno="98",La Chilena (F-CM)
+#EXTINF:-1 tvg-chno="96",La Chilena (F-CM)
 https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="99",CR (MS-CA)
+#EXTINF:-1 tvg-chno="97",CR (MS-CA)
 https://videolatam.com:3599/hybrid/play.m3u8?PlaylistM3UCL
