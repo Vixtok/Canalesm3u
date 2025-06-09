@@ -21,7 +21,7 @@ https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
 https://eu1.servers10.com:8081/8030/index.m3u8
 #EXTINF:-1 tvg-chno="11",Bajo Techo TV (P-CA)
 https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8
-#EXTINF:-1 tvg-chno="12",Chivacoa TV Internacional (P-CA)
+#EXTINF:-1 tvg-chno="12",Chivacoa TV (P-CA)
 https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/playlist.m3u8
 #EXTINF:-1 tvg-chno="13",Master Video (P-CA)
 https://5fd5567570c0e.streamlock.net/222/stream/playlist.m3u8
@@ -57,7 +57,7 @@ https://v1.tustreaming.cl/emociontv/index.m3u8?PlaylistM3UCL
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno="29",Via Alto Mayo TV (P-CA)
 https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="30",Mega TV Arequipa (P-CA)
+#EXTINF:-1 tvg-chno="30",Mega TV (P-CA)
 https://mc.servidor.stream:19360/megatv/megatv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno="31",Aurora Media Films (P-CM)
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
@@ -65,7 +65,7 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-chno="33",F10 HD (P-CM)
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
-#EXTINF:-1 tvg-chno="34",Super Canal Yurimaguas (P-CM)
+#EXTINF:-1 tvg-chno="34",Canal Yurimaguas (P-CM)
 https://live.obslivestream.com/supercanal/index.m3u8
 #EXTINF:-1 tvg-chno="35",Runtime (P-CM)
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
@@ -73,7 +73,7 @@ https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 #EXTINF:-1 tvg-chno="37",Metro TV (P-CM)
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
-#EXTINF:-1 tvg-chno="38",Hermanas Mirabal TV (P-CM)
+#EXTINF:-1 tvg-chno="38",Mirabal TV (P-CM)
 https://cnn.essastream.com:3091/live/hmtvlive.m3u8
 #EXTINF:-1 tvg-chno="39",Sarapiqui TV (P-CM)
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
