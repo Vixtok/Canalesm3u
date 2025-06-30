@@ -111,3 +111,17 @@ https://tv.arkeo.cl:1936/bombitv/bombitv/playlist.m3u8?PlaylistM3UCL
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno="56",AniRetro (P-CA)
 https://tv.arkeo.cl:19360/8000/8000.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="57",TotoVision (P-CA)
+https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
+#EXTINF:-1 tvg-chno="58",TotoNicapan (P-CA)
+https://cdn.streamhispanatv.net:3953/live/mastvtotolive.m3u8
+#EXTINF:-1 tvg-chno="59",Quezada TV (P-CA)
+https://cdn.streamhispanatv.net:3861/live/canal26quezadalive.m3u8
+#EXTINF:-1 tvg-chno="60",6 SIX (P-CA)
+https://cdn.streamhispanatv.net:3710/live/6ixchannellive.m3u8
+#EXTINF:-1 tvg-chno="61",Sas TV (P-CA)
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+#EXTINF:-1 tvg-chno="62",Ixchiguan (P-CA)
+https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
+#EXTINF:-1 tvg-chno="63",Barbe TV (P-CA)
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
