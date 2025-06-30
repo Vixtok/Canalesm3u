@@ -1,100 +1,100 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="1",Retro Plus (P-CM)
-https://ssh101.bozztv.com/ssh101/retroplustv03/playlist.m3u8?PlaylistM3UCL
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno="2",Lado Oscuro (P-CM)
 https://stmv5.voxtvhd.com.br/cattotv/cattotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno="3",Cine Sony (P-CA)
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-chno="4",+Cine (P-CA)
 https://tv.arkeo.cl:19360/8128/8128.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="5",DAN TV (P-CA)
-https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
-#EXTINF:-1 tvg-chno="6",Telemax (P-CA)
-https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
-#EXTINF:-1 tvg-chno="7",Satel (P-CA)
-https://server.asilivehd.com:3802/live/canal4live.m3u8
-#EXTINF:-1 tvg-chno="8",GAM TV (P-CA)
-https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
-#EXTINF:-1 tvg-chno="9",Marca TV (P-CA)
-https://eu1.servers10.com:8081/8030/index.m3u8
-#EXTINF:-1 tvg-chno="10",Chivacoa TV (P-CA)
-https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/playlist.m3u8
-#EXTINF:-1 tvg-chno="11",Autonoma (P-CA)
-https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="12",Limon (P-CA)
-http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
-#EXTINF:-1 tvg-chno="13",Solar TV (P-CA)
-https://stmv1.voxhdnet.com/solartv/solartv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="14",Imagen Universal (P-CA)
+#EXTINF:-1 tvg-chno="5",Imagen Universal (P-CA)
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-#EXTINF:-1 tvg-chno="15",Caracola TV (P-CA)
+#EXTINF:-1 tvg-chno="6",Caracola TV (P-CA)
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="16",Autentica TV (P-CA)
-https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="17",Frecuencia Musical (P-CA)
+#EXTINF:-1 tvg-chno="7",Autonoma (P-CA)
+https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="8",Frecuencia Musical (P-CA)
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:-1 tvg-chno="18",Megacine (P-CA)
+#EXTINF:-1 tvg-chno="9",Megacine (P-CA)
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
-#EXTINF:-1 tvg-chno="19",Florencia (P-CA)
+#EXTINF:-1 tvg-chno="10",Florencia (P-CA)
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
-#EXTINF:-1 tvg-chno="20",Runtime (P-CM)
-https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
-#EXTINF:-1 tvg-chno="21",Ready TV (P-CM)
-https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
-#EXTINF:-1 tvg-chno="22",TVS (P-CA)
-https://imagenuniversaltv.net:3741/live/tvslive.m3u8
-#EXTINF:-1 tvg-chno="23",Maule Vision (P-CA)
-https://v2.tustreaming.cl/maulevisiontv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="24",Atacama TV (P-CA)
-https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="25",Hechicera TV (P-CA)
-https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="26",Emocion TV (P-CA)
-https://v1.tustreaming.cl/emociontv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="27",Dodo (P-CA)
-https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="28",Alto Mayo TV (P-CA)
-https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="29",Mega TV (P-CA)
-https://mc.servidor.stream:19360/megatv/megatv.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="30",Aurora Films (P-CM)
+#EXTINF:-1 tvg-chno="11",Aurora Films (P-CM)
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-#EXTINF:-1 tvg-chno="31",F10 HD (P-CM)
-https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
-#EXTINF:-1 tvg-chno="32",Canal Yurimaguas (P-CM)
+#EXTINF:-1 tvg-chno="12",Runtime (P-CM)
+https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
+#EXTINF:-1 tvg-chno="13",Ready TV (P-CM)
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
+#EXTINF:-1 tvg-chno="14",TVS (P-CA)
+https://imagenuniversaltv.net:3741/live/tvslive.m3u8
+#EXTINF:-1 tvg-chno="15",DAN TV (P-CA)
+https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
+#EXTINF:-1 tvg-chno="16",Telemax (P-CA)
+https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
+#EXTINF:-1 tvg-chno="17",Satel (P-CA)
+https://server.asilivehd.com:3802/live/canal4live.m3u8
+#EXTINF:-1 tvg-chno="18",GAM TV (P-CA)
+https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
+#EXTINF:-1 tvg-chno="19",Marca TV (P-CA)
+https://eu1.servers10.com:8081/8030/index.m3u8
+#EXTINF:-1 tvg-chno="20",Chivacoa TV (P-CA)
+https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/playlist.m3u8
+#EXTINF:-1 tvg-chno="21",Solar TV (P-CA)
+https://stmv1.voxhdnet.com/solartv/solartv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="22",Maule Vision (P-CA)
+https://v2.tustreaming.cl/maulevisiontv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="23",Atacama TV (P-CA)
+https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="24",Emocion TV (P-CA)
+https://v1.tustreaming.cl/emociontv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="25",Dodo (P-CA)
+https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="26",Canal Yurimaguas (P-CM)
 https://live.obslivestream.com/supercanal/index.m3u8
-#EXTINF:-1 tvg-chno="33",Metro TV (P-CM)
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
-#EXTINF:-1 tvg-chno="34",Mirabal TV (P-CM)
+#EXTINF:-1 tvg-chno="27",Mirabal TV (P-CM)
 https://cnn.essastream.com:3091/live/hmtvlive.m3u8
-#EXTINF:-1 tvg-chno="35",Sarapiqui TV (P-CM)
+#EXTINF:-1 tvg-chno="28",Sarapiqui TV (P-CM)
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+#EXTINF:-1 tvg-chno="29",DMJ (P-CM)
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="30",Enfoque Digital TV (P-CM)
+https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="31",BHTV (P-CM)
+https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="32",Visión TV (P-CM)
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+#EXTINF:-1 tvg-chno="33",Retrox TV (P-CM)
+https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
+#EXTINF:-1 tvg-chno="34",Limon (P-CA)
+http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
+#EXTINF:-1 tvg-chno="35",Autentica TV (P-CA)
+https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno="36",Play TV (P-CM)
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 #EXTINF:-1 tvg-chno="37",TV y TV (P-CM)
 https://cloudpro.servidoresdestream.com:8081/8014/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="38",Planeta TV (P-CM)
-https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="39",PlanetaTV (ML-CA)
-https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="40",CR TV (P-CM)
+#EXTINF:-1 tvg-chno="38",CR TV (P-CM)
 https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="41",DMJ (P-CM)
-https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="42",Xtrema Accion (P-CM)
+#EXTINF:-1 tvg-chno="39",Hechicera TV (P-CA)
+https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="40",Alto Mayo TV (P-CA)
+https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="41",Mega TV (P-CA)
+https://mc.servidor.stream:19360/megatv/megatv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="42",F10 HD (P-CM)
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+#EXTINF:-1 tvg-chno="43",Metro TV (P-CM)
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-1 tvg-chno="44",Planeta TV (P-CM)
+https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="45",PlanetaTV (ML-CA)
+https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="46",Xtrema Accion (P-CM)
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-chno="43",Kandela (P-CM)
+#EXTINF:-1 tvg-chno="47",Kandela (P-CM)
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
-#EXTINF:-1 tvg-chno="44",Enfoque Digital TV (P-CM)
-https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="45",BHTV (P-CM)
-https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="46",Buin Somos Todos (P-CM)
+#EXTINF:-1 tvg-chno="48",Buin Somos Todos (P-CM)
 https://bst.buin.cl/0.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="47",Visión TV (P-CM)
-https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-#EXTINF:-1 tvg-chno="48",Retrox TV (P-CM)
-https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
 #EXTINF:-1 tvg-chno="49",Garabito TV (P-CM)
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 #EXTINF:-1 tvg-chno="50",CTV (P-CM)
@@ -105,13 +105,9 @@ https://stmv5.voxtvhd.com.br/radioaraucania/radioaraucania/playlist.m3u8?Playlis
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno="53",Moni (P-CA)
 https://tv.arkeo.cl:19360/8134/8134.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="54",ZTV Anime (P-CA)
+#EXTINF:-1 tvg-chno="54",Bombi (P-CA)
+https://tv.arkeo.cl:1936/bombitv/bombitv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="55",ZTV Anime (P-CA)
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="55",AniRetro (P-CA)
+#EXTINF:-1 tvg-chno="56",AniRetro (P-CA)
 https://tv.arkeo.cl:19360/8000/8000.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="56",Kanade (P-CA)
-https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="57",Alfa TV (P-CA)
-https://v2.tustreaming.cl/alfatv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-chno="58",Poesia (MT-CA)
-https://stmv5.voxtvhd.com.br/radiopoesia/radiopoesia/playlist.m3u8?PlaylistM3UCL
